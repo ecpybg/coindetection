@@ -6,6 +6,8 @@ You will have to change all the file paths in the code to match your coin photo'
 
 Take a picture in decent lighting with U.S. coins on wide-ruled notebook paper, or change the 0.34375 to 0.28125 for college-ruled.
 
-Installation: pip install opencv-python
+Installation: 
 
-              pip install numpy
+pip install opencv-python
+
+pip install numpy
